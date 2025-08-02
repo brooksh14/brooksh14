@@ -1,10 +1,10 @@
-## 👋 Hi there, I'm Brook Shibabaw!
+## Hi there, I'm Brook Shibabaw!
 
 I'm a Computer Science student at Virginia Tech with a strong interest in building tech that’s thoughtful, accessible, and impactful. I'm passionate about solving real-world problems through code and continuously learning to grow as a developer and collaborator.
 
 ---
 
-## 🧠 Skills & Interests
+## Skills & Interests
 
 - Programming Languages: Python, Java, JavaScript, HTML/CSS
 - Areas of Interest: Artificial Intelligence, Human-Centered Design, Accessibility, UI/UX, Web Development
@@ -12,14 +12,14 @@ I'm a Computer Science student at Virginia Tech with a strong interest in buildi
 
 ---
 
-## 🤖 AI Studio Project
+## AI Studio Project
 
 As part of the Break Through Tech AI Studio program, I collaborated on a team project focused on using AI for social good.  
 🔗 [View AI Studio Project Repository](https://github.com/your-username/your-ai-project-repo)
 
 ---
 
-## 💡 Other Projects & Contributions
+## Other Projects & Contributions
 
 - **Recipeasy**: A web app for sharing and exploring accessible, inclusive recipes with features like text-to-speech, ingredient checklists, and cultural tags. *(HTML/CSS/JavaScript)*
 - **WhackaShape Game**: A Java-based arcade game implementing custom data structures like LinkedBag and Deque.
@@ -28,7 +28,7 @@ As part of the Break Through Tech AI Studio program, I collaborated on a team pr
 
 ---
 
-📫 Feel free to connect with me or explore more of my work!
+Feel free to connect with me or explore more of my work!
 
 <!--
 **brooksh14/brooksh14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
