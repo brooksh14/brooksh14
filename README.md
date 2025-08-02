@@ -15,15 +15,13 @@ I'm a Computer Science student at Virginia Tech with a strong interest in buildi
 ## AI Studio Project
 
 As part of the Break Through Tech AI Studio program, I collaborated on a team project focused on using AI for social good.  
-🔗 [View AI Studio Project Repository](https://github.com/your-username/your-ai-project-repo)
+
 
 ---
 
 ## Other Projects & Contributions
 
 - **Recipeasy**: A web app for sharing and exploring accessible, inclusive recipes with features like text-to-speech, ingredient checklists, and cultural tags. *(HTML/CSS/JavaScript)*
-- **WhackaShape Game**: A Java-based arcade game implementing custom data structures like LinkedBag and Deque.
-- **Playlist Generator**: Built in Java to manage and filter song playlists based on genre compatibility using queues and helper classes.
 - **UI/UX Design at Perago Systems**: Improved user engagement by designing Figma-based prototypes for performance management software and procurement systems.
 
 ---
