@@ -26,7 +26,7 @@ As part of the Break Through Tech AI Studio program, I collaborated on a team pr
 
 ---
 
-Feel free to connect with me or explore more of my work!
+Feel free to connect with me or explore more of my work! https://www.linkedin.com/in/brook-shibabaw-aab326291/ ybrook14@gmail.com
 
 <!--
 **brooksh14/brooksh14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
